@@ -1,3 +1,17 @@
+
+
+
+### 📌 关于文档翻译的说明 / Document Translation Notice / 翻訳に関するご注意  
+
+> [**中文**](https://github.com/ZhaiXinZheCode/CDC/edit/main/README.md)  
+> 由于作者英文水平有限，README 中的英文部分由中文原文经 AI 自动翻译而成，可能存在术语不准或语义偏差。如需精确信息，请以中文文档为准。  
+
+> [**English**](https://github.com/ZhaiXinZheCode/CDC/edit/main/README_EN.md)  
+> The English sections of this README are AI-translated from the original Chinese text. Due to the author’s limited English proficiency, inaccuracies may exist. For authoritative details, please refer to the Chinese documentation.  
+
+> **日本語**  
+> 本 README の英語部分は中国語原文を AI 翻訳したものです。作者の英語力不足により、誤訳や不正確な表現が含まれる場合があります。正確な情報は**日本語版ドキュメント**をご参照ください。
+
 # CDC
 
 ### 1. 为什么有这个想法？
