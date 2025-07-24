@@ -9,7 +9,7 @@
 > [**English**](https://github.com/ZhaiXinZheCode/CDC/edit/main/README_EN.md)  
 > The English sections of this README are AI-translated from the original Chinese text. Due to the author’s limited English proficiency, inaccuracies may exist. For authoritative details, please refer to the Chinese documentation.  
 
-> **日本語**  
+> [**日本語**](https://github.com/ZhaiXinZheCode/CDC/blob/main/README_JP.md)  
 > 本 README の英語部分は中国語原文を AI 翻訳したものです。作者の英語力不足により、誤訳や不正確な表現が含まれる場合があります。正確な情報は**日本語版ドキュメント**をご参照ください。
 
 # CDC
